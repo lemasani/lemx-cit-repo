@@ -1,3 +1,5 @@
 NAME: Brian lemasani
 CLASS: CIT
-SUBJECT: Python programming  day 2
+SUBJECT: Python programming  
+DAY 2: created a github repo and linked with the local machine i.e 
+       my computer.
